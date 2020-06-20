@@ -1,0 +1,2 @@
+# CodeNotes
+logging code notes
